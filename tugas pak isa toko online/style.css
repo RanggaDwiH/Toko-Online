@@ -270,11 +270,11 @@ footer {
 }
 
 .identitas {
-    font: 1;
+    flex: 1;
 }
 
 .sitemap {
-    font: 1;
+    flex: 1;
 }
 
 .sitemap li a {
@@ -289,7 +289,7 @@ footer {
 }
 
 .payment {
-    font: 1;
+    flex: 1;
 }
 
 .sitemap h2,
@@ -323,7 +323,6 @@ footer {
         margin: auto;
         padding-top: 20px;
     }
-
     .sitemap h2,
     .identitas h2 {
     font-size: 20px;
